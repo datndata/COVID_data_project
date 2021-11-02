@@ -1,4 +1,10 @@
+--Name: Dat Nguyen
+--Date: 20/10/2021
+--Project aim: collect COVID data to create visualisation dashboard to show the impact of COVID on world's population 
+--Data source: https://ourworldindata.org/covid-deaths
+--Methodology: Use SQL to explore and extract meaningful data from source and prepare datasets to be ready for Tableau visualisation 
 
+--Explore all data 
 Select *
 FROM PortfolioProject..CovidDeaths
 Where continent is not null
