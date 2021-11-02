@@ -2,6 +2,7 @@
 -- Name: Dat Nguyen 
 -- Project aim: COVID-19 Dashboard as at 20 Oct 2021 
 -- Data source: https://ourworldindata.org/covid-deaths
+-- Viz output: https://github.com/datndata/COVID_data_project.git
 
 --1. Global number of cases and deaths 
 Select 
